@@ -1,7 +1,8 @@
 # Git Lab
 
 
-
+the file user DUKE 
+for the check list
 
 1.  設定與檢視 Git 設定值
 
